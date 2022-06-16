@@ -1,0 +1,168 @@
+
+.body{
+    background-color: hsla(0, 0%, 100%, 0.75);
+}
+
+main{
+    border-radius: 10px;
+    width: 50%;
+    margin: auto;
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+.sedans{
+    background-color: hsl(31, 77%, 52%);
+    height: 450px;
+    border-radius: 10px 0 0 10px;
+
+}
+
+.sedans img{
+    padding: 40px;
+    padding-bottom: 10px;
+}
+.sedans p{
+    padding-left: 40px;
+    padding-right: 40px;
+    align-items: center;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    width: 170px;
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 24px;
+    
+}
+.sedans h1{
+    font-size: 15;
+    padding-left: 40px;
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-weight: 700px;     
+}
+
+.sedans input[type="submit"]{
+    padding: 14px;
+    width: 120px;
+    border-radius: 50px;
+    border: none;
+    margin: 40px;
+    margin-top: 60px;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    color:  hsl(31, 77%, 52%);
+    cursor: pointer;
+
+}
+.sedans input[type="submit"]:hover{
+    background-color: hsl(31, 77%, 52%);
+    border: 2px solid hsla(0, 0%, 100%, 0.75);
+    color:  hsla(0, 0%, 100%, 0.75)
+}
+
+.SUV input[type="submit"]{
+    padding: 14px;
+    width: 120px;
+    border-radius: 50px;
+    border: none;
+    margin: 40px;
+    margin-top: 60px;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    color:  hsl(184, 100%, 22%);
+    cursor: pointer;
+
+}
+.SUV input[type="submit"]:hover{
+    background-color: hsl(184, 100%, 22%);
+    border: 2px solid hsla(0, 0%, 100%, 0.75);
+    color:  hsla(0, 0%, 100%, 0.75);
+}
+.luxury input[type="submit"]{
+    padding: 14px;
+    width: 120px;
+    border-radius: 50px;
+    border: none;
+    margin: 40px;
+    margin-top: 35px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color:  hsl(179, 100%, 13%);
+    cursor: pointer;
+
+}
+
+.luxury input[type="submit"]:hover{
+    background-color: hsl(179, 100%, 13%);
+    border: 2px solid hsla(0, 0%, 100%, 0.75);
+    color:  hsla(0, 0%, 100%, 0.75);
+}
+
+.SUV{
+    background-color: hsl(184, 100%, 22%);
+    height: 450px;
+}
+.SUV img{
+    padding: 40px;
+    padding-bottom: 10px;
+}
+
+.SUV p{
+    padding-left: 40px;
+    padding-right: 40px;
+    align-items: center;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    width: 170px;
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 24px;
+    
+}
+
+.SUV h1{
+    font-size: 15;
+    padding-left: 40px;
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-weight: 700px;    
+}
+
+.luxury{
+    background-color: hsl(179, 100%, 13%);
+    height: 450px;
+    border-radius: 0 10px 10px 0;
+    
+}
+
+.luxury img{
+    padding: 40px;
+    padding-bottom: 10px;
+}
+
+.luxury p{
+    padding-left: 40px;
+    padding-right: 40px;
+    align-items: center;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    width: 170px;
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 24px;
+    
+}
+
+.luxury h1{
+    font-size: 15;
+    padding-left: 40px;
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-weight: 700px;    
+}
