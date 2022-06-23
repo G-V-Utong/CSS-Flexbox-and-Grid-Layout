@@ -1,4 +1,7 @@
 # CSS-Flexbox-and-Grid-Layout
 CSS Flexbox and Grid Layout demonstration
 
-https://github.com/G-V-Utong/CSS-Flexbox-and-Grid-Layout/find/main
+# Hosted Page Link
+# https://g-v-utong.github.io/CSS-Flexbox-and-Grid-Layout/
+
+ https://g-v-utong.github.io/CSS-Flexbox-and-Grid-Layout/
